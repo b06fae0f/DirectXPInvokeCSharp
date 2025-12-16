@@ -1,6 +1,8 @@
 # About
 This program uses PInvoke to create the Win32 window and the Direct3D instance in C#. 
+
 COM Interop was used to include the DirectX interfaces. 
+
 This code make use of the pre-installed csc compiler and d3d9.dll installed on Windows machines.
 
 # How to use
