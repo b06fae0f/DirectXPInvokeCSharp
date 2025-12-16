@@ -21,4 +21,5 @@ If you wish to expand this project, you have to add the missing parts by yoursel
 
 ## Resources:
 https://winprog.org/tutorial/simple_window.html
+
 http://www.directxtutorial.com/Lesson.aspx?lessonid=9-4-1
