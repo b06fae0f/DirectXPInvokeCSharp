@@ -7,7 +7,7 @@ This code make use of the pre-installed csc compiler and d3d9.dll installed on W
 
 # How to use
 - Open the project directory in powershell.
-- Enter: `./build.bat` to compile the *.cs files.
+- Enter: `./build` to compile the *.cs files.
 - Enter: `./Program` to start the program.
 
 If everything goes well, you should see a window with a blue background and a colored triangle in the center.
